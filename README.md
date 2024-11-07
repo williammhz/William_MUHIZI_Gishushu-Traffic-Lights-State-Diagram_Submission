@@ -2,11 +2,10 @@
 
 This UML state diagram represents a traffic control system for Gishushu Traffic Lights with two vehicle flow directions. North-South (NS) and West-East (WE), it also includes pedestrian (PE) crossings in both directions. The system operates in a cycle to ensure the safe flow of vehicles and pedestrians.
 
-The routes and intersections of these roads are: KG 17 Avenue (The road coming from Downtown - Kimihurura - Kacyiru), I used it as West Road
-						 KN 5 Road (The road that continues to Kigali International Airport, passing through Remera), I used it as East Road
-
-						 KG 7 Avenue (The road that heads to Nyarutarama - Gacuriro), I used it as North Road 
-						 KG 9 Avenue (The road that continues to some neighborhoods of Gikondo and Kicukiro), I used it as South Road
+The routes and intersections of these roads are: KG 17 Avenue (The road coming from Downtown - Kimihurura - Kacyiru), I used it as West Road.
+						KN 5 Road (The road that continues to Kigali International Airport, passing through Remera), I used it as East Road.
+                                                KG 7 Avenue (The road that heads to Nyarutarama - Gacuriro), I used it as North Road 
+						KG 9 Avenue (The road that continues to some neighborhoods of Gikondo and Kicukiro), I used it as South Road
 
 States and their descriptions:
 NS Green, WE Red, Pedestrian WE Walk:
